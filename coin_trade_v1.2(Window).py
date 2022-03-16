@@ -10,8 +10,8 @@ import time
 import os
 
 # key numbers
-access_key='RxxAtjdh5TCBv4Wc9ycWKILVBsDhE3ZeiJVXadxF'
-secret_key='xavsrBGokR5fqeivyA4ctxFrJgMfjbCCJmxRY5I5'
+access_key='RxxAtjdh5TCBv4Wc9ycWKILVB1sDhE3Z0eiJV4Xad8xF' # key 비식별화
+secret_key='xavsrBGokR5fqeivyA4ctxFrJgMfjbCCJ1mx048RY5I5' # key 비식별화
 
 upbit=pyupbit.Upbit(access_key,secret_key) # upbit 함수 이용하기
 
